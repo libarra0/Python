@@ -67,9 +67,9 @@ def main_menu():
             print("Goodbye!")
             break
         elif menu_option == "":
-            print("Choose the correct value")
+            print("Choose the correct value \n")
         else:
-            print("Choose the correct value")
+            print("Choose the correct value \n")
 
 
 
